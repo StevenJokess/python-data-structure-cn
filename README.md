@@ -1,12 +1,4 @@
-<a target="_blank" href="https://tracking.gitads.io/?repo=awesome-spider"><img src="https://images.gitads.io/awesome-spider"></a>
 
-
-其他译本： http://gis4g.pku.edu.cn/download/sessdsa-textbook/
-
-
-欢迎大家关注公众号 
-
-![facert](https://github.com/facert/python-data-structure-cn/blob/master/mp1.png)
 
 ---
 
@@ -134,3 +126,7 @@
     * [7.21.Dijkstra算法分析](7.图和图的算法/7.21.Dijkstra算法分析/README.md)
     * [7.22.Prim生成树算法](7.图和图的算法/7.22.Prim生成树算法/README.md)
     * [7.23.总结](7.图和图的算法/7.23.总结/README.md)
+
+---
+
+其他译本： http://gis4g.pku.edu.cn/download/sessdsa-textbook/
